@@ -17,3 +17,5 @@ class Link(models.Model):
 
     def _unicode__(self):
         return self.title
+
+r = "er"
